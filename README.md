@@ -1,5 +1,5 @@
 # SistemaEstelar
-Representação de um sistema estelar gerado a partir de cáculos de física.
+Representação de um sistema estelar gerado a partir da Lei da Gravitação Universal. Observa-se a Segunda Lei de Kepler na órbita elíptica mais próxima da estrela.
 
 # Visualização
 

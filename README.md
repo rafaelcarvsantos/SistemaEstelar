@@ -9,6 +9,6 @@ Observa-se a Segunda Lei de Kepler na órbita elíptica mais próxima da estrela
 
 ![](https://github.com/rafaelcarvsantos/SistemaEstelar/blob/main/Recording%202023-06-03%20143921.gif)
 
-Demonstração de que a aceleração gravitacional independe da massa do corpo. Os dois primeiros planetas colidem com a estrela ao mesmo tempo.
+Demonstração de como a aceleração gravitacional independe da massa do corpo. Os dois primeiros planetas colidem com a estrela ao mesmo tempo, apesar da diferença de massa.
 
-Como a força gravitacional enfraquece a partir da distância, os planetas mais longes começam com menor aceleração e colidem com a estrela posteriormente.
+Também, como a força gravitacional enfraquece a partir da distância, os planetas mais longes começam com menor aceleração e colidem com a estrela posteriormente.
